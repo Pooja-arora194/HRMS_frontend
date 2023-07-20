@@ -1,0 +1,288 @@
+.sick-leave-title-border {
+    border-left: 4px solid #E8BA18;
+    padding: 8px 16px;
+    margin-top: 15px;
+}
+
+.cursur-disabled {
+    cursor: not-allowed;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.pending-text {
+    text-transform: capitalize;
+    color: #DE3C45;
+}
+
+.approved-text {
+    color: #49C110;
+    text-transform: capitalize;
+}
+
+.rejected-text {
+    color: #DE3C45;
+    text-transform: capitalize;
+}
+
+.page-heading {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 35px;
+    color: #000000;
+    margin-top: 15px;
+
+}
+
+.avail-leaves-card-row .earn-leave-count {
+    color: #E8BA18;
+}
+
+.avail-leaves-card-row .sick-leave-count {
+    color: #D724DB;
+}
+
+
+.avail-leaves-card-row .casual-leave-count {
+    color: #2373B2;
+}
+
+.leave_no_found {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.login-template input {
+    /* background: #E6E6E6; */
+    border: none;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 11px;
+    margin-top: 11px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+}
+
+.login-template .employee_page {
+    text-align: left;
+    border-left: 3px solid #2373B2;
+    padding: 10px;
+}
+
+.login-template button.login-form-btn {
+    background: #2373B2;
+    border: none;
+    color: #fff;
+    width: 100%;
+    padding: 8px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.login-template .gif_file {
+    width: 100%;
+    /* float: left; */
+}
+
+.login-template .logo-image {
+    /* width: 100%; */
+    float: left;
+}
+
+.earn-leave-highlight {
+    background: #E8BA18;
+}
+
+.sick-leave-highlight {
+    background: #D724DB;
+}
+
+.casual-leave-highlight {
+    background: #2373B2;
+}
+
+.calender-style {
+    width: 100%;
+    border-radius: 19px;
+    border: 0.935089px solid #E5E5EF;
+}
+
+.edit-post-icon {
+    float: right;
+    display: flex;
+    gap: 20px;
+}
+
+.updated-leave-div {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.birthday-card-name-heading {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    margin: 0;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+.birthday-card-birthdate {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    margin: 0;
+    text-transform: capitalize;
+    color: #2373B2;
+}
+
+.line_ {
+    text-align: center;
+}
+
+.line_ hr {
+    width: 77%;
+    margin: 11px auto;
+}
+
+span.image-name {
+    padding-left: 15px;
+}
+
+.apply-leave-header-btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #2373B2;
+    padding: 10px;
+    border-radius: 4px;
+    gap: 15px;
+    width: 148px;
+}
+
+.post-count {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    padding-right: 10px;
+    color: #000000;
+    cursor: pointer;
+    padding-left: 5px;
+}
+
+.leave-card-text {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.leave-card-count {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+
+    color: rgba(0, 0, 0, 0.7);
+
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.leave-balance-div {
+    border-radius: 0;
+}
+
+.class-leave-quota .leave-type {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.border-right-2px {
+    border-right: 2px solid rgba(0, 0, 0, 0.3);
+}
+
+.class-leave-quota .from-to-date {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+.class-leave-quota .status {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.newInputBox {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: rgba(0, 0, 0, 0.6);
+    border: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+    padding: 10px 10px 10px 0px;
+    width: 100%;
+}
+
+.newInputBox:focus-visible {
+    outline: none;
+}
+
+.newinputBox-label {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.status-rejected {}
+
+.time-log-show {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+@media screen and (max-width:755px) {
+
+    .add-project .last-row,
+    .add-UserLayout .last-row {
+        gap: 0px;
+    }
+}

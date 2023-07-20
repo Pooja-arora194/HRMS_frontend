@@ -1,21 +1,12 @@
 import React from "react";
-import '../index.css';
-import SignUp from "../Component/signUp";
+import Signup from "../components/signUp";
 
 function signUpPage() {
+    return (
+        <div>
+            <Signup />
+        </div>
 
-  return (
-    <>
-   
-      
-       
-    <SignUp/>
-    
-  
-    </>  
-
-
-
-  );
+    )
 }
 export default signUpPage;

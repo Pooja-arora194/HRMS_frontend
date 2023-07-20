@@ -1,0 +1,143 @@
+.approved-btn {
+    color: #fff;
+    background: #0F6D13;
+    border: none;
+    padding: 4px 25px;
+    border-radius: 5px;
+}
+
+body a {
+    text-decoration: none;
+    text-transform: none;
+}
+
+
+
+.deny-btn {
+    color: #fff;
+    background: #FF2204;
+    border: none;
+    padding: 4px 20px;
+    border-radius: 5px;
+}
+
+button.Check-In-Btn {
+    background: transparent;
+    color: #fff;
+    border-style: dotted;
+    padding: 9px 51px;
+    border-color: #fff;
+    border-radius: 5px;
+}
+
+button.Check-Out-Btn {
+    background: #D21C03;
+    color: #fff;
+    border-style: dotted;
+    padding: 9px 46px;
+    border-color: #fff;
+    border-radius: 5px;
+}
+
+.approved-btn-disabled {
+    background: #0F6D13;
+    border: none;
+    cursor: not-allowed;
+    color: #fff;
+    padding: 4px 20px;
+    border-radius: 5px;
+    opacity: 0.8;
+}
+
+.deny-btn-disabled {
+    background: #FF2204;
+    border: none;
+    color: #fff;
+    cursor: not-allowed;
+    padding: 4px 24px;
+    opacity: 0.8;
+    border-radius: 5px
+}
+
+.newpost_btn {
+    background: #2373B2;
+    color: #fff;
+    border: none;
+    padding: 8px 40px;
+    border-radius: 5px;
+    float: right;
+}
+
+.apply-leave-btn {
+    background: #2373B2;
+    border: none;
+    color: #fff;
+    padding: 9px 32px;
+    float: right;
+
+}
+
+.leave-approve-btn {
+    border: none;
+    border-style: dotted;
+    color: #2373B2;
+    padding: 4px 30px;
+    border-radius: 5px;
+    background: transparent;
+    float: left;
+}
+
+.update-setting-btn {
+    background: #2373B2;
+    border: none;
+    color: #fff;
+    padding: 9px 66px;
+    float: left;
+
+}
+
+.search-leave-record-btn {
+    background: #2373B2;
+    border: none;
+    color: #fff;
+    padding: 9px 66px;
+    float: left;
+
+}
+
+.clear-filter-btn {
+    background: #2373B2;
+    border: none;
+    color: #fff;
+    padding: 9px 40px;
+    float: left;
+}
+
+.remove-btn {
+    background: #2373B2;
+    border: none;
+    color: #fff;
+    padding: 9px 40px;
+
+}
+
+.leave-request-btn {
+    background: #2373B2;
+    border: none;
+    color: #fff;
+    padding: 9px 40px;
+    border-radius: 3px;
+}
+
+.Unauthorized-btn a,
+.Unauthorized-btn a:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+.Unauthorized-btn {
+    background: #2373B2;
+    border: none;
+    color: #fff;
+    padding: 9px 66px;
+}

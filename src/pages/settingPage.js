@@ -1,17 +1,16 @@
 import React from "react";
 import '../index.css';
-import Setting from "../Component/setting";
+import Setting from "../components/setting";
 
 function settingPage() {
 
   return (
     <>
-    <Setting/>
-  
-    </>  
 
+      <Setting />
 
+    </>
 
   );
 }
-export default settingPage;
+export default settingPage;  

@@ -11,7 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-.col-sm-6.loginpage {
-  margin-top: 12%;
-  margin-left: 16%;
+
+.containersignup {
+  max-width: 500px;
+  margin: auto;
+  margin-top: 5rem;
 }
